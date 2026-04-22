@@ -74,13 +74,11 @@ VITE_API_KEY=your_api_key_here
 
 This project is deployed on **Vercel**.
 
----
-
-## 📸 Screenshots
-
-(Add your screenshots here)
+https://simple-weather-site-theta.vercel.app/
 
 ---
+
+
 
 ## 📌 Future Improvements
 
